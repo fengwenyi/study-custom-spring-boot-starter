@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.fengwenyi.study_custom_springboot_starter.config.GreetingAutoConfiguration
